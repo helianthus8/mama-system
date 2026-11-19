@@ -1,5 +1,5 @@
 # Mama System
-
+![Circuito y consola en Wokwi](circuito-wokwi.png)
 **Mama System** es un sistema embebido desarrollado en **MicroPython** sobre **ESP32** que automatiza la iluminación y el acompañamiento de rutinas diarias en la habitación de un estudiante, integrando control horario por red, detección de presencia y telemetría IoT en tiempo real por **MQTT**.
 
 ## La idea detrás
